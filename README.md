@@ -91,7 +91,7 @@ grupo1 ** grupo2
 ## ⚙️ Instalação
 
 ```bash id="exq6"
-git clone 
+git clone https://github.com/aceleradox/querryd-repo.git
 cd querryd
 pip install ddgs colorama
 ```
